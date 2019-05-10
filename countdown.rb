@@ -8,5 +8,6 @@ end
 HAPPY NEW YEAR 
   end
   def countdown_with_sleep (count)
+    count = 10
     
     
