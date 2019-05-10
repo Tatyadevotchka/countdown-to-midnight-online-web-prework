@@ -5,7 +5,7 @@ def countdown (count)
   count -= 1 
   break if count == 0 
 end
-HAPPY NEW YEAR 
+"HAPPY NEW YEAR!" 
   end
   def countdown_with_sleep (count)
     count = 10
@@ -15,5 +15,6 @@ HAPPY NEW YEAR
     sleep (1)
     break if count == 1 
   end
-  HAPPY NEW YEAR
+  "HAPPY NEW YEAR!"
+end
     
