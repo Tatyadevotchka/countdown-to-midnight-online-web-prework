@@ -12,5 +12,5 @@ HAPPY NEW YEAR
     while count <= 10 
     puts "#{count} SECOND(S)!"
     count -= 1 
-    
+    sleep (1)
     
