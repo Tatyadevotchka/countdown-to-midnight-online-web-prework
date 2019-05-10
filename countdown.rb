@@ -13,4 +13,6 @@ HAPPY NEW YEAR
     puts "#{count} SECOND(S)!"
     count -= 1 
     sleep (1)
+    break if count == 1 
+    
     
