@@ -11,5 +11,6 @@ HAPPY NEW YEAR
     count = 10
     while count <= 10 
     puts "#{count} SECOND(S)!"
-    count
+    count -= 1 
+    
     
